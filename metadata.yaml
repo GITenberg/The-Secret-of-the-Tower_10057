@@ -1,0 +1,33 @@
+_repo: The-Secret-of-the-Tower_10057
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hope, Anthony
+    alias: Hawkins, Anthony Hope
+    birthdate: 1863
+    deathdate: 1933
+    gutenberg_agent_id: '63'
+    url: http://www.gutenberg.org/2009/agents/63
+    wikipedia: http://en.wikipedia.org/wiki/Anthony_Hope
+description: Although this novel from Anthony Hope doesn''t have the same level of
+  swashbuckling sword play as his best-known work, The Prisoner of Zenda, it is still
+  a fast-paced, action-packed read. Containing elements of mystery and romance, The
+  Secret of the Tower explores unusual goings-on in the Tower Cottage, a centerpiece
+  of the small English village of Inkston.
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10057'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'World War, 1914-1918 -- Veterans -- Fiction'
+- !lcsh 'England -- Social life and customs -- 20th century -- Fiction'
+- !lcsh 'Women physicians -- Fiction'
+- !lcsh 'Mystery fiction'
+- GITenberg
+title: The Secret of the Tower
+url: http://www.gutenberg.org/ebooks/10057
