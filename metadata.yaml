@@ -1,5 +1,8 @@
 _repo: The-Secret-of-the-Tower_10057
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hope, Anthony
@@ -14,6 +17,8 @@ description: Although this novel from Anthony Hope doesn''t have the same level 
   a fast-paced, action-packed read. Containing elements of mystery and romance, The
   Secret of the Tower explores unusual goings-on in the Tower Cottage, a centerpiece
   of the small English village of Inkston.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10057#The-Secret-of-the-Tower
 gutenberg_issued: '2003-11-01'
 gutenberg_type: Text
 identifiers:
